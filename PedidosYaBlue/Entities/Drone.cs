@@ -16,6 +16,11 @@
             PesoMaximo = pesoMaximo;
             AlturaMaxima = alturaMaxima;
         }
+
+    public void AddRepartidor()
+        {
+            throw new NotImplementedException();
+        }
     
     
     }
